@@ -4,4 +4,4 @@ Aquesta tasca desplega una infraestructura mínima a **AWS** utilitzant **Terraf
 
 L’objectiu és crear tota la infraestructura **només amb codi** (fitxers `.tf`) i utilitzar la **consola gràfica d’AWS** només per verificar que els recursos s’han creat correctament.
 
-Alumnes: Hans Jeremi González Pin
+Alumne: Hans Jeremi González Pin
